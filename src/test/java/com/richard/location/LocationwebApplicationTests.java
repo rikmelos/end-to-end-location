@@ -1,4 +1,4 @@
-package com.richard.location.location;
+package com.richard.location;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

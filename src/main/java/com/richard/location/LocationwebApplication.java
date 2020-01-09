@@ -1,4 +1,4 @@
-package com.richard.location.location;
+package com.richard.location;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
